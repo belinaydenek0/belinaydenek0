@@ -24,3 +24,9 @@ E-posta: belinaydenek@gmail.com
 Instagram: @belinaydenek
 
 Yazılım yolculuğumda yeni teknolojiler öğrenmeye ve kendimi geliştirmeye her zaman açığım.
+
+
+![Belinay'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=belinaydenek0&show_icons=true&theme=radical)
+
+
+![Belinay'ın Dil Dağılımı](https://github-readme-stats.vercel.app/api/top-langs/?username=belinaydenek0&layout=compact&theme=radical)
