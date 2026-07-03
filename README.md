@@ -3,20 +3,25 @@ Merhaba! Ben Belinay Denek 👋
 Aksaray Üniversitesi'nde Yazılım Mühendisliği öğrencisiyim. Yazılım dünyasında her gün yeni bir şeyler keşfetmeyi seven, gelişmekte olan bir mühendis adayıyım. Web teknolojilerine olan tutkumla projeler geliştiriyor, kullanıcı deneyimini iyileştiren temiz kodlar yazmaya özen gösteriyorum.
 
 🛠 Teknik Yeteneklerim
+
 Kod yazarken en sık kullandığım araç VS Code. Günlük projelerimde aktif olarak kullandığım diller ve teknolojiler:
 
-Diller: Python, C#, C, Java, HTML, CSS, JavaScript
+  Diller: Python, C#, C, Java, HTML, CSS, JavaScript
 
-Web & Framework: Bootstrap, JavaScript
+  Web & Framework: Bootstrap, JavaScript
 
-Python Kütüphaneleri: Tkinter (Arayüz geliştirmeyi seviyorum!)
+  Python Kütüphaneleri: Tkinter (Arayüz geliştirmeyi seviyorum!)
 
 🚀 Öne Çıkan Projelerim
+
 RGB Color Uygulaması: Kullanıcıların renk kodları üzerinde çalışabileceği, PHP ve MySQL ile geliştirdiğim interaktif bir uygulama.
 
-Green Library: Yazılım geliştirme sürecimde üzerine çalıştığım bir diğer keyifli proje.
+Green Library: Yazılım geliştirme sürecimde üzerine çalıştığım bir diğer keyifli kitap takip web projesi.
+
+Art and Color Galery: En yeni ve en sevdiğim projelerden, web tabanlı bir müze eser avcısı.
 
 📈 İletişim & Sosyal
+
 Benimle bağlantı kurmak veya projelerim hakkında konuşmak istersen buradayım:
 
 E-posta: belinaydenek@gmail.com
