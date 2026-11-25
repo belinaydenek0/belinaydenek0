@@ -26,8 +26,6 @@ Benimle bağlantı kurmak veya projelerim hakkında konuşmak istersen buradayı
 
 E-posta: belinaydenek@gmail.com
 
-Instagram: @belinaydenek
-
 Yazılım yolculuğumda yeni teknolojiler öğrenmeye ve kendimi geliştirmeye her zaman açığım.
 
 
